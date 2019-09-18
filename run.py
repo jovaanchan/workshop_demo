@@ -3,6 +3,7 @@ from calculator import app
 import os
 from os import path
 
+
 extra_dirs = ['./calculator/templates', './calculator/static']
 extra_files = extra_dirs[:]
 for extra_dir in extra_dirs:
